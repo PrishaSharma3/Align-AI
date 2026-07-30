@@ -1,0 +1,6 @@
+{
+  "name": "Align AI",
+  "description": "An AI-powered Adaptive Weekly Planner that automatically fits goals into existing schedules and adapts in real-time as life changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
